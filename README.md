@@ -1,3 +1,3 @@
 # RecrInn
 
-Recruitment Tools for Innovators..
+Recruitment Tool for Innovators..
